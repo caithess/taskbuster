@@ -1,0 +1,5 @@
+-r base.txt
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-64
+selenium=3.4.3=py36_0
