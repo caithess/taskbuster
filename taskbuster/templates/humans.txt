@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kate Louie -- Analyst -- chess@rover.com
 
 # THANKS
 
-    <name>
+    To engineering for hosting this.
 
 # TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
+    Django
+    HTML5 Boilerplate, CSS3
     jQuery, Modernizr
+    Twitter Bootstrap
+    Initializr
