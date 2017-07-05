@@ -6,7 +6,6 @@ imagesize=0.7.1=py36_0
 jinja2=2.9.6=py36_0
 markupsafe=0.23=py36_2
 pygments=2.2.0=py36_0
-requests=2.14.2=py36_0
 six=1.10.0=py36_0
 snowballstemmer=1.2.1=py36_0
 sphinx=1.6.2=py36_0

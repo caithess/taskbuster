@@ -3,6 +3,7 @@
 ## Custom
 
 secret_key.py
+taskbuster/fixtures
 
 ### Django ###
 *.log
