@@ -14,3 +14,5 @@ key = "your_secret_django_key"
 
 You will also need `chromedriver` somewhere in your PATH. (Link 
 here)[https://sites.google.com/a/chromium.org/chromedriver/downloads]
+
+[Please see the full documentation here.](docs/html/index.html)
